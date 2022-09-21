@@ -1,4 +1,5 @@
-# Projets-Licence-Pro
-Ce repository contient des projets effectués dans le cadre de ma Licence Pro. 
+# Jeu de carte - Bataille
 
-1 branche = 1 projet.
+Technologie : JAVA
+
+Déroulement d'une partie entre 2 joueurs non humain, affichage en console.  
