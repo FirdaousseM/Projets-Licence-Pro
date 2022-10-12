@@ -13,7 +13,7 @@ C'est une version simplifiée du jeu de la Bataille -> chaque joueur possède 8 
 
 
 ## __Lancement :__ 
-Créer un projet java, puis créer un package "bataille". Insérer les 3 fichiers dans ce package, puis lancer la classe "Bataille" qui contient la méthode "main".
+Depuis Eclipse -> Créer un projet java, puis créer un package "bataille". Insérer les 3 fichiers dans ce package, puis lancer la classe "Bataille" qui contient la méthode "main".
 
 ## **Diagramme UML :**
 
