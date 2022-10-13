@@ -1,4 +1,22 @@
-# Projets-Licence-Pro
-Ce repository contient des projets effectués dans le cadre de ma Licence Pro. 
+# Lecteur de fichier
 
-1 branche = 1 projet.
+## **Membre du groupe :** 
+Firdaousse M.
+
+## **Technologie :** 
+JAVA
+
+## __Description :__ 
+
+
+
+## __Lancement :__ 
+Depuis Eclipse -> Créer un projet java. Insérer les tous les fichiers, puis lancer la classe "Bataille" qui contient la méthode "main".
+
+## **Diagramme UML :**
+
+
+
+
+
+
