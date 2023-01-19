@@ -1,0 +1,23 @@
+item-list{
+	display: flex;
+}
+
+.item-card{
+	display: flex;
+	align-items: center;
+	padding: 1em 0;
+}
+
+.item-card__image{
+	width: 4em;
+	height: 4em;
+}
+
+.item-card label{
+	margin-left: 6em;
+	font-weight: bold;
+}
+
+.item-link:hover{
+	background: lightgray;
+}
